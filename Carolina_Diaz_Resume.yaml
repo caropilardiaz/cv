@@ -1,0 +1,131 @@
+cv:
+  name: Carolina Del Pilar Díaz
+  location: Córdoba, Argentina
+  email: caropilardiaz@gmail.com
+  phone: "+54351155428714"
+  social_networks:
+  - network: LinkedIn
+    username: carolinadelpilardíaz
+  sections:
+    summary:
+    - >-
+      AI/ML Engineer, Senior Data Scientist, and Applied Statistician (Economist)
+      with 20+ years of experience advising global enterprises in Fintech,
+      AgTech, and Healthcare. I specialize in architecting and deploying end-to-end AI products
+      and solutions using Python, Machine Learning, Deep Learning, and Multi-Agent Systems
+      (GenAI, RAG, MCP). My approaches are mathematically robust and hallucination-resistant,
+      tailored for regulated environments. I have shipped autonomous AI applications
+      built with custom-coded Python pipelines, combining Causal Inference, Econometrics, and MLOps
+      on on-premises, hybrid, and cloud infrastructures (AWS, Azure) — always focused on data
+      sovereignty and measurable ROI for clients such as ICBC, Aerolíneas Argentinas, and AB InBev.
+      Core stack: Python, AI, Machine Learning, Deep Learning, Computer Vision, MLOps, Data Science.
+    experience:
+    - company: ITP Patagonia
+      position: Senior AI Engineer & Forward Deployed Engineer (FDE)
+      start_date: 2024-06
+      end_date: present
+      location: Buenos Aires, Argentina
+      highlights:
+      - "Multi-Agent Architecture & Cloud Orchestration: Architected a proprietary
+        Multi-Agent Framework and shipped autonomous AI apps for top-tier financial
+        institutions (Banco Galicia, ICBC)."
+      - "Designed model-agnostic architectures that dynamically switch between leading
+        LLMs (OpenAI GPT, Google Gemini, Anthropic Claude, LLaMA, Mistral) via
+        custom-coded LangGraph pipelines on on-premises and hybrid-cloud servers."
+      - "Solved critical 'black box' failures by injecting rigorous statistical validation
+        layers into the agent's reasoning loop, ensuring data sovereignty and output
+        reliability."
+    - company: ITP Patagonia - ICBC
+      position: Senior Data Scientist
+      start_date: 2024-06
+      end_date: 2025-07
+      location: Buenos Aires, Argentina
+      highlights:
+      - "Developed predictive models for payroll clients and mutual fund investment
+        using AWS SageMaker, AutoML, Canvas, and Neural Network and XGBoost."
+      - "Built an anomaly detection model using Neural Networks (AENN), Isolation
+        Forest, and SHAP for interpretability using AZURE framework."
+      - "Currently developing a fraud detection model with AWS Fraud Detector, leveraging
+        Decision Trees, Neural Networks, Time Series Analysis, and Custom Fraud Prediction
+        using AutoML."
+    - company: Nubiral S.A.
+      position: Senior Data Scientist. COE, Commission of Expert. Generative 
+        Models.
+      start_date: 2023-10
+      end_date: 2024-05
+      location: Buenos Aires, Argentina
+      highlights:
+      - "Airline solution: Integrated AWS Rekognition, Lambda, S3, LangChain, and
+        OpenAI GPT for Computer Vision and Generative AI, improving object detection accuracy
+        at Aerolineas Argentina."
+      - "Developed a Post-Call Analytics solution using AWS services (Transcribe,
+        Comprehend, Lambda, QuickSight) to analyze customer interactions."
+      - "Implemented Azure Cognitive Search and Form Recognizer for efficient PDF
+        document management at Banco Macro."
+    - company: Pi Data Strategy & Consulting
+      position: Semi-Senior Data Scientist, Statistician, Economist
+      start_date: 2021-03
+      end_date: 2023-10
+      location: Córdoba, Argentina
+      highlights:
+      - "Built end-to-end ML pipelines using Databricks and Apache Spark for large-scale
+        data processing; developed regression, classification, and predictive models
+        deployed on Azure Technology."
+      - "Achieve EDA, Statistical analysis, regression models, classification models,
+        neuronal network."
+      - "Sales Forecast for georeferenced Dataset. Multinomial predictive models applied
+        to the level of customer satisfaction."
+    - company: National Institute of Agriculture Technology (INTA)
+      position: Lead Statistician / Head of Statistical Research
+      start_date: 2012-01
+      end_date: 2021-12
+      location: Manfredi, Córdoba, Argentina
+      highlights:
+      - "Designed and implemented experimental designs for all research projects,
+        ensuring robust statistical methodology across multiple areas."
+      - "Applied neural networks, deep learning, and computer vision for UAV and agricultural
+        machinery, enhancing crop health monitoring."
+    education:
+    - institution: National University of Córdoba
+      area: Applied Statistics
+      degree: Postgraduate Master's Degree
+      start_date: 2006-01
+      end_date: 2008-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Data Science Machine Learning and applications
+      degree: Diploma
+      start_date: 2019-01
+      end_date: 2020-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Economics
+      degree: Bachelor's degree
+      start_date: 1993-01
+      end_date: 1998-12
+      location: Córdoba, Argentina
+    skills:
+    - label: Agentic & Generative AI
+      details: Multi-Agent Systems, LangGraph, LangChain, LlamaIndex, AutoGen,
+        Semantic Kernel, RAG, MCP, Prompt Engineering, Causal AI, Hallucination Mitigation
+    - label: LLMs & Foundation Models
+      details: OpenAI GPT, Google Gemini, Anthropic Claude, LLaMA, Mistral,
+        Mixtral, Cohere, Ollama, Hugging Face — model-agnostic multi-provider architectures
+    - label: Machine Learning & Stats
+      details: Deep Learning, Computer Vision, Causal Inference, Bayesian 
+        Statistics, Econometrics, Anomaly Detection, Time Series, MLOps
+    - label: Cloud & Big Data
+      details: AWS (SageMaker, Lambda, Rekognition, Fraud Detector), Azure AI 
+        Services, Snowflake, Databricks, Apache Spark, Python, R, SAS
+    - label: Languages
+      details: Spanish (Native), English (Intermediate), Portuguese (Basic)
+design:
+  theme: classic
+  sections:
+    show_time_spans_in: []
+  entries:
+    degree_width: 3.5cm
+    date_and_location_width: 4.5cm
+settings:
+  render_command:
+    pdf_path: rendercv_output/Carolina_Diaz_Resume.pdf

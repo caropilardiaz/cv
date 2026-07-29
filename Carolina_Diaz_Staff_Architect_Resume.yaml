@@ -1,0 +1,129 @@
+cv:
+  name: Carolina Del Pilar Díaz
+  location: Córdoba, Argentina
+  email: caropilardiaz@gmail.com
+  phone: "+54351155428714"
+  social_networks:
+  - network: LinkedIn
+    username: carolinadelpilardíaz
+  sections:
+    summary:
+    - >-
+      Enterprise AI Solution Architect & Staff Statistician (Economist) with 20+ years of experience spanning
+      applied research, statistical modeling, and AI/ML engineering for global enterprises in Fintech, AgTech,
+      and Healthcare. 10+ years leading statistical research and experimental design (INTA), followed by 6+ years
+      architecting production Machine Learning, Deep Learning, and Multi-Agent GenAI systems (RAG, MCP) for
+      Banco Galicia, ICBC, Banco Macro, and Aerolíneas Argentinas. Combines rigorous causal inference and
+      econometrics with hands-on MLOps and cloud architecture (AWS, Azure, Databricks).
+    experience:
+    - company: IT Patagonia (Consultant)
+      position: Staff AI Engineer / Architect
+      start_date: 2024-06
+      end_date: present
+      location: Remote, Argentina
+      highlights:
+      - "Enterprise Architecture: Designed and led a proprietary Multi-Agent Framework (LangGraph, RAG, MCP), the production blueprint for autonomous AI applications at Banco Galicia and ICBC."
+      - "Agnostic System Design: Built provider-agnostic LLM architectures dynamically routing between Gemini, GPT, and Claude via n8n orchestration on hybrid cloud infrastructure."
+      - "AI Governance & XAI: Embedded statistical validation and SHAP-based interpretability layers into agent reasoning loops to prevent hallucinations and meet regulatory compliance."
+    - company: ITP Patagonia - ICBC
+      position: Senior Data Scientist / Technical Lead
+      start_date: 2024-06
+      end_date: 2025-07
+      location: Remote, Argentina
+      highlights:
+      - "Developed predictive models for payroll clients and mutual fund investment using AWS SageMaker, AutoML, Neural Networks, and XGBoost."
+      - "Built anomaly and fraud detection models (Autoencoder Neural Networks, Isolation Forest, Decision Trees, Time Series Analysis) with SHAP interpretability on Azure and AWS Fraud Detector."
+      - "Delivered customer segmentation (RFM) on ~1M monthly records using PySpark, SageMaker Canvas, and Amazon Athena."
+    - company: Nubiral S.A.
+      position: Senior AI Consultant / COE Expert
+      start_date: 2023-10
+      end_date: 2024-05
+      location: Argentina
+      highlights:
+      - "Integrated AWS Rekognition, Lambda, LangChain, and OpenAI GPT for Computer Vision and Generative AI at Aerolíneas Argentinas."
+      - "Built a Post-Call Analytics solution (AWS Transcribe, Comprehend, QuickSight) and deployed Azure Cognitive Search / Form Recognizer for document intelligence at Banco Macro."
+    - company: Pi Data Strategy & Consulting
+      position: Semi-Senior Data Scientist / Statistician & Economist
+      start_date: 2021-03
+      end_date: 2023-10
+      location: Córdoba, Argentina
+      highlights:
+      - "Built regression, neural network, and multinomial classification models on Azure and Databricks for Anheuser-Busch InBev, Pernod Ricard, and GDM Don Mario."
+      - "Applied NLP and Speech Technology (IBM Watson) and sales-forecasting models over georeferenced datasets."
+    - company: National Institute of Agriculture Technology (INTA)
+      position: Lead Statistician / Head of Statistical Research
+      start_date: 2012-01
+      end_date: 2021-12
+      location: Córdoba, Argentina
+      highlights:
+      - "Led statistical research nationwide: designed experimental designs and mixed/biometric models for ecophysiology, plant breeding, and environmental sustainability programs."
+      - "Applied neural networks, deep learning, and computer vision to UAV and precision-agriculture data for crop health, soil analysis, and pest detection."
+      - "Authored and co-authored 15+ peer-reviewed statistical research publications in applied genomics and agronomy."
+    education:
+    - institution: National University of Córdoba
+      area: Applied Statistics
+      degree: Postgraduate Master's Degree
+      start_date: 2006-01
+      end_date: 2008-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Data Science, Machine Learning and Applications
+      degree: Diploma
+      start_date: 2019-01
+      end_date: 2020-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Economics
+      degree: Bachelor's degree
+      start_date: 1993-01
+      end_date: 1998-12
+      location: Córdoba, Argentina
+    skills:
+    - label: Agentic & Generative AI
+      details: Multi-Agent Systems, LangGraph, LangChain, LlamaIndex, AutoGen,
+        Semantic Kernel, RAG, MCP, Prompt Engineering, LLMs (Gemini, GPT, Claude,
+        Ollama, Hugging Face), AI Governance, Explainable AI (XAI, SHAP).
+    - label: Machine Learning & Statistics
+      details: Deep Learning, Neural Networks, XGBoost, Random Forest, Isolation
+        Forest, Decision Trees, Computer Vision, NLP, Causal Inference, Bayesian
+        Statistics, Econometrics, Anomaly Detection, Time Series Analysis, Experimental
+        Design, Biometrics.
+    - label: Cloud & Data Engineering
+      details: AWS (SageMaker, Bedrock, Lambda, Rekognition, Fraud Detector), Azure
+        AI Services, Databricks, Snowflake, Apache Spark, PySpark, Amazon Athena,
+        Teradata, n8n, Docker, SQL, MLOps.
+    - label: FDE & Platform Engineering
+      details: FastAPI, React, TypeScript, Node.js/Express, Docker, MLflow (PyFunc,
+        Model Serving), Databricks Vector Search & Delta Lake, AWS Lambda, CI/CD,
+        Git, Prometheus, Grafana, OpenTelemetry, Amazon CloudWatch.
+    - label: Programming & Tools
+      details: Python, R, SAS, SQL, Excel, Power BI.
+    - label: Languages
+      details: Spanish (Native), English (B2 - Professional Working Proficiency),
+        Portuguese (Basic).
+    certifications:
+    - bullet: "Databricks Certified Generative AI Engineer Associate — Issued 07/2026,
+        valid through 07/2028 (Credential ID 186901264)"
+    - bullet: Databricks Academy — Generative AI Application Deployment & Monitoring,
+        Evaluation & Governance, Building Retrieval/Single-Agent Applications, AI
+        Agent Fundamentals, Unity Catalog Data Governance (2025–2026)
+    - bullet: Generative AI with Large Language Models — DeepLearning.AI & AWS,
+        via Coursera (2023)
+    - bullet: Agentic AI on AWS — BeSA (Become a Solution Architect), Candidate (2026)
+    - bullet: "Microsoft Certified: Azure AI Fundamentals"
+    - bullet: AWS Academy Graduate — Cloud Foundations (2024) & Machine Learning
+        Foundations (2020)
+    - bullet: MLOps Fundamentals CI/CD/CT pipelines with Azure
+    - bullet: Machine Learning by Professor Andrew Ng, Stanford University / Coursera
+    - bullet: "IBM SkillsBuild: Mastering the Art of Prompting — Effective Instructions
+        for AI Language Models"
+design:
+  theme: classic
+  sections:
+    show_time_spans_in: []
+  entries:
+    degree_width: 3.5cm
+    date_and_location_width: 4.5cm
+settings:
+  render_command:
+    pdf_path: rendercv_output/Carolina_Diaz_Staff_Architect_Resume.pdf

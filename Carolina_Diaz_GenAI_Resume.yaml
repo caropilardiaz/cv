@@ -1,0 +1,156 @@
+cv:
+  name: Carolina Del Pilar Díaz
+  location: Córdoba, Argentina
+  email: caropilardiaz@gmail.com
+  phone: "+54351155428714"
+  social_networks:
+  - network: LinkedIn
+    username: carolinadelpilardíaz
+  sections:
+    summary:
+    - >-
+      AI/ML Engineer, Senior Data Scientist and Applied Statistician (Economist) with 20+ years of
+      experience, operating as a Forward Deployed Engineer (FDE) and Technical Lead for enterprise
+      clients. I architect and ship end-to-end GenAI products — Multi-Agent Systems, RAG and MCP
+      pipelines — with the rigor of Advanced Statistics, Causal Inference and MLOps, on on-prem,
+      hybrid and cloud (AWS, Azure, Databricks) infrastructures across Fintech, AgTech and Healthcare.
+    experience:
+    - company: IT Patagonia (Consultant FDE)
+      position: Senior AI Engineer / Forward Deployed Engineer
+      start_date: 2024-06
+      end_date: present
+      location: Buenos Aires, Argentina
+      highlights:
+      - "FDE & Technical Lead: architected and deployed GenAI, RAG and Multi-Agent solutions for enterprise clients (Banco Galicia, ICBC, Banco Macro, Facturante), defining technical roadmaps and cloud architecture."
+      - "Agentic AI (Patagon.IA): 33-node LangGraph state-machine on AWS Bedrock for automated COBOL-legacy BRD/TRD documentation — led prompt engineering (~23 sections) and a 3-judge LLM majority-voting panel with anti-hallucination filters vs. a deterministic golden-truth (20/20 sections verified, 0 pipeline errors)."
+      - "Production GenAI apps: WhatsApp sales agent as an MLflow PyFunc model on Databricks (RAG via Vector Search + Gemini); two-agent invoice-extraction & eligibility platform on AWS Lambda + Bedrock (Claude Sonnet/Haiku, Strands framework); React 19 + Gemini conversational data apps."
+      - "LLM cost & quality engineering: state-checkpointing to avoid API reprocessing, strict token budgets, dynamic cloud/local routing (AWS Bedrock / Ollama), and an LLM-as-a-judge multi-evaluator with majority voting for hallucination control."
+    - company: ITP Patagonia - ICBC
+      position: Senior Data Scientist
+      start_date: 2024-06
+      end_date: 2025-07
+      location: Buenos Aires, Argentina
+      highlights:
+      - "Built an RFM customer segmentation on AWS SageMaker Canvas / Data Wrangler over Amazon Athena (customer-360 join, ~250 features, ~1M monthly records) with robust outlier handling, similarity (MinHash) encoding and STL/LOESS decomposition."
+      - "Developed segmentation and investment-propensity models for mutual funds (FCI) and a credit-card churn classifier (Random Forest, AdaBoost, SVM; SMOTE, cross-validation, F1)."
+      - "Designed a hybrid fraud-detection approach combining a rules engine with anomaly detection (Isolation Forest, Autoencoders, One-Class SVM)."
+    - company: Nubiral S.A.
+      position: Senior Data Scientist — COE, Generative Models
+      start_date: 2023-10
+      end_date: 2024-05
+      location: Buenos Aires, Argentina
+      highlights:
+      - "Integrated AWS Rekognition, Lambda, S3, LangChain and OpenAI GPT for Computer Vision + Generative AI at Aerolíneas Argentinas; built a Post-Call Analytics solution (Transcribe, Comprehend, QuickSight)."
+      - "Implemented Azure Cognitive Search and Form Recognizer for PDF document management at Banco Macro."
+    - company: Pi Data Strategy & Consulting
+      position: Semi-Senior Data Scientist / Statistician / Economist
+      start_date: 2021-03
+      end_date: 2023-10
+      location: Córdoba, Argentina
+      highlights:
+      - "End-to-end predictive and regression modelling (EDA, classification, neural networks) deployed on Azure; sales forecasting and customer-satisfaction models for AB InBev, Don Mario and Pernod Ricard."
+    - company: National Institute of Agriculture Technology (INTA)
+      position: Lead Statistician / Head of Statistical Research
+      start_date: 2012-01
+      end_date: 2021-12
+      location: Manfredi, Córdoba, Argentina
+      highlights:
+      - "Designed experimental designs and mixed statistical models across research programs; applied neural networks, deep learning and computer vision to UAV and agricultural-machinery crop monitoring."
+    skills:
+    - label: Agentic & Generative AI
+      details: Multi-Agent Systems, LangGraph, LangChain, LlamaIndex, Strands,
+        AutoGen, Semantic Kernel, RAG, MCP, Prompt Engineering, LLMs (Gemini, GPT,
+        Claude, DeepSeek, Ollama, Hugging Face)
+    - label: Machine Learning & Stats
+      details: Deep Learning, Computer Vision, Causal Inference, Bayesian
+        Statistics, Econometrics, Anomaly Detection, Time Series, MLOps
+    - label: Cloud & Big Data
+      details: AWS (SageMaker, Bedrock, Lambda, Rekognition), Azure AI Services,
+        Databricks, Snowflake, Apache Spark, Docker, FastAPI, Python, R, SAS
+    - label: Languages
+      details: Spanish (Native), English (Intermediate), Portuguese (Basic)
+    projects:
+    - name: PATAGON.IA — Automated COBOL Legacy Documentation
+      summary: "33-node LangGraph pipeline on AWS Bedrock generating BRD/TRD docs from COBOL source. Led prompt engineering of ~23 sections (BRD/TRD), achieving 20/20 sections verified with 0 pipeline errors. Implemented a 3-judge LLM panel with majority voting and anti-hallucination filters against a deterministic golden-truth (judge integrated as node n34). Managed Human-in-the-Loop flow (Excel + Google Drive + knowledge packs) and multi-model adaptation (DeepSeek R1 / Qwen / GLM) with reproducible runs (temperature=0). IT Patagonia."
+      date: '2026'
+    - name: Banco Galicia — AI Architecture & Observability Assessment
+      summary: "Observability and regulatory compliance strategy designed during an architectural audit of two production AI systems (multi-agent orchestrator and RAG agent). Diagnosed gaps such as missing P50/P95/P99 latency metrics, log contexts, health checks, and tracing. Proposed a target architecture integrating Prometheus (HTTP/Kafka metrics), Grafana, Azure Application Insights, and OpenTelemetry + Jaeger for distributed tracing. Designed hallucination auditing using RAGAS metrics (faithfulness, answer relevancy) and alerting for SLAs. Aligned system requirements to BCRA (Com. 'A' 8280) and CNV regulatory traceability frameworks. IT Patagonia."
+      date: '2026'
+    - name: Banco Macro — Nightly Batch Completion Predictor (OPTI+)
+      summary: "Predictive model for nightly batch execution end-time at Banco Macro, replacing static heuristics with statistical learning and communicating predictions as time windows with natural-language explanations. Developed and evaluated machine learning models including Linear Regression, Decision Trees, Random Forest, HistGradientBoosting, and Prophet time-series over 485 real records (optimized MAE to ~39 min). Designed an instance-based estimator (k-NN weighted by day type, volume, and day of week) with robust median estimation, standard deviation outlier filtering, and asymmetric prediction intervals based on distribution skewness. Applied asymmetric loss functions aligned to a 15-minute SLA, achieving 99.0% SLA compliance in a 105-day leave-one-out backtest. Shipped as a deployable product with FastAPI, React + Vite, Node/Express proxy, and Docker, integrated in real-time with the OPTI API and Gemini-powered explanations. IT Patagonia."
+      date: 2025-2026
+    - name: ICBC — Banking Customer Segmentation (RFM)
+      summary: "RFM (Recency, Frequency, Monetary) customer segmentation based on a customer-360 view with feature engineering on ~250 features (products, balances, card usage, risk scores). Engineered data preparation workflows in AWS SageMaker Canvas and Data Wrangler (using PySpark) over Amazon Athena tables, performing monthly filtering and exporting to S3 in Parquet format. Developed feature pipelines including robust-sigma outlier handling, median/categorical imputation, and ordinal/one-hot/similarity encoding (MinHash LSH + n-grams). Applied STL/LOESS time-series decomposition (statsmodels) over transaction history (~1 million records monthly per client). IT Patagonia."
+      date: '2025'
+    - name: Facturante — WhatsApp Sales AI Agent
+      summary: "Conversational sales agent deployed as an MLflow PyFunc model on Databricks Model Serving with RAG over product manuals (Databricks Vector Search) and Gemini. Architected on Databricks (Model Serving, Vector Search, Delta Lake) with webhook handoff and multi-phase sales conversation flow. Designed a testbed with automated evaluation (LLM-as-a-judge over a golden dataset), consistency scoring across runs, and a conversation viewer in Databricks Lakeview for auditing. IT Patagonia."
+      date: '2026'
+    - name: ITP Flokzu — Agentic Document Platform
+      summary: "Two-agent platform: structured extraction of invoices/receipts from PDF with amount validation, and eligibility evaluation for the Knowledge Economy Regime. Deployed on AWS Lambda (Python 3.13) + AWS Bedrock (Claude 3.5 Sonnet / Haiku) using Strands framework with versioned prompts in S3. Extracted PDF content (PyMuPDF, pdfplumber, pypdf) to structured JSON outputs, integrated via HTTP events with Flokzu BPM, and configured logging and monitoring via Amazon CloudWatch. IT Patagonia."
+      date: '2026'
+    - name: ICBC — Legacy Modernization VB6 → C#/.NET 8
+      summary: "Modernization of the judicial orders banking system (AFIP integration and BCRA import) migrating from Visual Basic 6 (VB6) to a modern layered architecture. Designed a layered system (Core / Data / Business / WinForms / AfipConnection) using .NET 8, Entity Framework Core, Dependency Injection, async/await, Serilog, and IBM DB2 (IBM.Data.DB2.Core) database connectivity. IT Patagonia."
+      date: '2026'
+    - name: Interbanking — Conversational Operations Agent (POC)
+      summary: Technical proposal for a governed SQL + RAG agent on Databricks +
+        S3 (Lakehouse Medallion, Unity Catalog RLS/CLS, Model Serving, Vector
+        Search, grounded RAG). IT Patagonia.
+      date: '2026'
+    - name: Universal Assistance — QA Test Automation
+      summary: "Web application generating Playwright (TypeScript) test scripts from natural-language requirements using conversational AI, featuring a results dashboard. Developed with React 19, TypeScript, and Vite, leveraging Google Gemini 2.5 Flash for automated code generation oriented to @playwright/test. IT Patagonia."
+      date: '2026'
+    - name: Banco Macro — Intelligent Assets Platform
+      summary: "Web application that loads asset data (CSV/Excel), analyzes it with conversational AI, and displays real-time reports and visualizations, including cost projections. Built with React 19, TypeScript, and Vite. Integrated Google Gemini 2.5 Flash for automatic column mapping and contextual chat, and used Recharts and math.js for reporting and 3-month cost forecasting. IT Patagonia."
+      date: '2026'
+    - name: CPCE Legalizations Web Assistant
+      summary: "Web application assisting the professional legalizations process: conversational chat on regulatory standards (RT 37, Res. 34/2024, checklists) and PDF/DOCX document upload with automated analysis of errors, omissions, and inconsistencies. Developed with React 19, TypeScript, Vite, and Tailwind, using mammoth (DOCX) and pdfjs-dist (PDF) for document extraction, and Gemini 2.5 Flash with an embedded regulatory knowledge base."
+      date: '2026'
+    - name: Car One — Vehicle Price Intelligence PoC
+      summary: "Multi-agent Python Proof of Concept (PoC) that collects vehicle listings from multiple sources, validates the data, and outputs a pricing recommendation for a target vehicle. Engineered with Python using a custom orchestrator, specialized agents with parallelism (ThreadPoolExecutor), and statistical market analytics (average, standard deviation vs. benchmark, outlier detection)."
+      date: '2026'
+    - name: Data Stewardship Application
+      summary: "Data quality and governance web application that evaluates CSV datasets against custom user-defined rules and automatically generates data dictionaries. Built with React 19, TypeScript, and Vite, leveraging Gemini 2.5 Flash, PapaParse for CSV parsing, and react-i18next for multi-language support (ES/EN)."
+      date: '2026'
+    education:
+    - institution: National University of Córdoba
+      area: Applied Statistics
+      degree: Postgraduate Master's Degree
+      start_date: 2006-01
+      end_date: 2008-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Data Science, Machine Learning and applications
+      degree: Diploma
+      start_date: 2019-01
+      end_date: 2020-12
+      location: Córdoba, Argentina
+    - institution: National University of Córdoba
+      area: Economics
+      degree: Bachelor's degree
+      start_date: 1993-01
+      end_date: 1998-12
+      location: Córdoba, Argentina
+    certifications:
+    - bullet: Databricks Certified Generative AI Engineer Associate (2026)
+    - bullet: "Microsoft Certified: Azure AI Fundamentals — Candidate (2026)"
+    - bullet: Agentic AI on AWS — BeSA (Become a Solution Architect), Candidate (2026)
+    - bullet: AWS Academy Cloud Architecting – Candidate, WIC Training Program (2025)
+    - bullet: AWS Academy Graduate — Cloud Foundations (2026)
+    - bullet: AWS Academy Graduate — Machine Learning Foundations (2026)
+    - bullet: IBM SkillsBuild — Certificado de finalización (2026)
+    - bullet: Open English – Candidate (Online Course) (2025-Present)
+    - bullet: AWS Academy Graduate — Cloud Foundations & Machine Learning Foundations (2024–2026)
+    - bullet: "Bayesian Statistics: Techniques and Models — University of California (2021)"
+    publications:
+    - bullet: 20+ peer-reviewed publications in applied statistics, genomics and
+        agronomy (2014–2020). Full list available on request.
+design:
+  theme: classic
+  sections:
+    show_time_spans_in: []
+  entries:
+    degree_width: 3.5cm
+    date_and_location_width: 4.5cm
+settings:
+  render_command:
+    pdf_path: rendercv_output/Carolina_Diaz_GenAI_Resume.pdf

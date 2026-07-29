@@ -1,0 +1,188 @@
+Carolina Del Pilar Díaz
+Molino Viejo 7513, Córdoba, Argentina  +94(0351-155428714), caropilardiaz@gmail.com, Linkedin
+PROFILE
+Senior AI Architect & Applied Statistician with 20+ years of experience operating as a strategic consultant (Internal & External) for global enterprises. I bridge the gap between rigorous econometric & statistical modeling and production-grade Agentic AI. Unlike traditional engineers, I architect and ship end-to-end AI products (Backend & Frontend) that are mathematically robust, preventing model hallucinations in regulated sectors. I specialize in Multi-Agent Systems, Generative AI, and Causal Inference, transforming complex theoretical frameworks into profitable, automated solutions. I have architected and sold 15+ full-stack AI applications, combining the speed of Low-Code (n8n) with the rigor of advanced statistics, Machine Learning, Deep Learning, and GenAI across Fintech, AgTech, Retail, Healthcare, Environment, Ecommerce, and Genetics
+ACADEMIC STUDIES
+2006-2008
+Córdoba - Argentine
+1993-1998
+Córdoba – Argentine
+2019-2020
+Córdoba - Argentine
+School of Economics, School of Mathematics and Physics. National of University of Córdoba. (Final
+Postgraduate Master's Degree in Applied             Statistics.
+Bachelor's degree in economics.
+School of Economics. National of University of Córdoba.
+Diploma in Data Science Machine Learning and applications.
+School of Mathematics, Physics and Astronomy. National University of Córdoba. Full scholarship.
+OTHER CERTIFICATES
+1998
+Cba-Argentine
+1992
+Villa María- Cba-Argentine
+1991
+Villa María- Cba-Argentine
+1985-1989
+Villa María- Cba-Argentine
+Course in English. Reading comprehension.
+Foreing Language School. School of Language National University of Córdoba.
+Course in English. Literature School of English.
+Course in English. Elementary Literature and           Composition.School of English.
+Basic Course in English Functions.School of English.
+SKILLS
+PRESENT DAY WORKING CONDITIONS
+Senior AI/ML Engineer & Senior Data Scientist
+IT Patagonia.
+Buenos Aires, Argentina.June 2024-Present
+Tech Stack : Multi-Agent Systems, LangGraph, AutoGen, CrewAI, Python, XGBoost, AWS SageMaker, Azure AI, Docker, Kubernetes.
+• AI/ML Engineering & Agents: Architected and deployed 9+ Agentic AI applications using multi-agent orchestration (LangGraph, AutoGen) to automate complex decision-making workflows, acting as the bridge between engineering and business strategy.
+EMPLOYMENT HISTORY
+Senior Data Scientist
+ITP Patagonia - ICBC Industrial and Commercial Bank of China
+Buenos Aires, Argentine. Junio-2024-July 2025
+Developed predictive models for payroll clients and mutual fund investment using AWS SageMaker, AutoML, Canvas, and Neural Network and XGBoost. Impact: enabling efficient predictions and insights for improved decision-making.
+Built an anomaly detection model using Neural Networks (AENN), Isolation Forest, and SHAP for interpretability using AZURE framework. Impact: implemented in fraud monitoring systems, allowing institutions to detect and prevent fraud more efficiently, transparency helps analysts understand alerts.
+Currently developing a fraud detection model with AWS Fraud Detector, leveraging Decision Trees, Neural Networks, Time Series Analysis, and Custom Fraud Prediction using AutoML. Impact: Reduced client account lockouts. Project Owner.
+Senior Data Scientist. COE, Commission of Expert. Generative Models
+Nubiral S.A.
+Buenos Aires, Argentine. October-2023-May 2024
+Led finance projects, utilizing AWS and Azure services, including OpenAI, to develop and implement chatbots with LLM and generative AI models. Impact: Enhanced automation.
+Airline solution: Integrated AWS Rekognition, Lambda, S3, LangChain, and GPT-4 for Computer Vision and Generative AI, improving object detection accuracy at Aerolineas Argentina. Impact: Increased precision.
+Developed a Post-Call Analytics solution using AWS services (Transcribe, Comprehend, Lambda, QuickSight) to analyze customer interactions, extract insights, and generate actionable reports to improve customer service at Telecom S.A. Impact: Improved efficiency.
+Implemented Azure Cognitive Search and Form Recognizer for efficient PDF document management at Banco Macro, enhancing data extraction and document accessibility across the organization. Impact: Streamlined operations.
+Semi-Senior Data Scientist, Statistician, Economist
+Pi Data Strategy & Consulting
+Córdoba, Argentine. March-2021-October-2023
+Consulting and Advice.Creating data regression models, predictive data modelling, and analyzing data mining algorithms. Modelling along creating end to end pipeline to deploy. Azure Technology. Applying knowledge of Machine Learning and Speech Tech, aim to create better data-driven business solutions and products, NLP, and Sequence Matcher. IBM Technology. Creating different Analysis of requirements and feasibility studies, achieve EDA, Statistical analysis, regression models, classification models, neuronal network. Research and data analytics.Sales Forecast for georeferenced Dataset.Multinomial predictive models applied to the level of customer satisfaction. Project Owner. Pernod Ricard, Ministerio de Finanzas (Government of Mendoza, Argentina), Don Mario (GDM Seeds), Anheuser-Busch InBev (World's & Argentina), Gobierno de B.A. (Argentina), Innovamed, Arcor S.A. (Chile, Argentina, and Brazil). These collaborations focused on data science, statistics, and economics consulting projects.
+Lead Statistician / Head of Statistical Research
+Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine.2012-2021
+Designed and implemented experimental designs for all research projects, ensuring robust statistical methodology across multiple areas. Led quantitative analysis and developed biometric models for research in ecophysiology, ecology, biotechnology, plant breeding, soil science, animal breeding, and environmental sustainability as the head of the statistics department.
+Applied neural networks, deep learning, and computer vision for UAV and agricultural machinery, enhancing crop health monitoring, soil analysis, pest detection, and precision farming. Conducted advanced statistical analysis to improve agricultural productivity and sustainability. Published research in peer-reviewed journals on statistical modeling, biometrics, and machine learning applications in agriculture and environmental science.
+Led and contributed to multidisciplinary teams, focusing on plant and animal improvement, soil health, and sustainable agriculture practices.
+Senior Research in Statistics in Information and communication technology
+Statistics and Demography Research Institute, School of Economics. National University of Córdoba, Argentine. 2013- 2016.
+Research for application the Generalized Linear latent and Mixed Models (GLLAMMs) for socio- economics variables, Clustering, Principal Component Analysis and Multiple Correspondence Analysis. Applied Geo-statistics for georeferenced data. Science of Technology project of the Province of Córdoba. Director of the Research Departament: Dr. Díaz Margarita.
+Semi Senior Economist and Statistician
+Center Strategic Studies for Defense. Aeronautical University Institute, Córdoba, Argentine. 2009-2011.
+Led the Investment Evaluation Project focusing on Comparative Evaluation Systems of Public Investment in Defense. Applied econometric models for statistical analysis and feasibility studies to assess public investments in the defense sector.
+Worked closely with Dr. Adrián Monetta as the Director of the Research Project, contributing to the development of robust econometric frameworks for strategic decision-making in defense.
+Semi-Senior Economist and Statistician
+Economics and Finance Research Institute, School of Economics. National University of Córdoba, Argentine. 2009-2010.
+Investment Evaluation project. Possibility to provide drinking water to rural areas in the Province of Córdoba. Development of the Econometrics models to predict water demand. Science and Technology project of the Province of Córdoba.Director of the Research Project: Dr. Inés del Valle Asis.
+Semi-Senior Economist and Statistician
+School of Economics, School of Mathematics and Physics. National of University of Córdoba. 2007-2010.
+Development of a Space-Time, Econometrics models to predict and plan the demand for diesel and biofuel for the agricultural sector.Director of the Research Project: Dr. Robledo, Walter Carlos. Ministry of Science and Technology of the Province de Córdoba- Full Schollarship.
+Semi-Senior Economist and Statistician
+Consulting MKT, Córdoba, Argentine. 2004-2006
+Responsible for the Agriculture Sector for the Economics Project. In charge of estimating the expectations of business. Building the expectation index, create statistical models and econometric models. Publications. Marketing Consultant. General Manager: Dr. Utrera, Gastón.
+Junior Research Economist
+Economics and Finance Research Institute, School of Economics. National University of Córdoba, Argentine. 2002-2005.
+Research Assistant in Agricultural Market Research. Research in econometrics models. Building statistical models. Studies about Farm Bill-USDA. Director of the Research Project: Dr. Colome, Rinaldo.
+Junior Economist
+Trading gold, Construction material 2003-2004
+Advisor in Foreign Marketing Design and execution of various import and export businesses. Assessing investment projects.
+Junior Assistant Economist
+Advice Economist. Bachellor Scalzotto, Juan 1998-1999
+Project of the data analysis and development reports of the installation of the Argentine-Chilean gasoduct.
+TECHING EXPERIENCE
+Professor in Deep Learning and Computer Vision. Mentor on Data Sciences and Machine Learning
+National University of Córdoba, School of Mathematics, Physics and Astronomy, Argentina (2019-2020)
+Taught Deep Learning and Computer Vision with a focus on UAV (Unmanned Aerial Vehicles) image analysis for the bachelor’s in data sciences and Machine Learning. Advised students on developing predictive models for assessments using UAV technology, guiding them through the implementation of machine learning algorithms for drone imagery and computer vision applications.
+Dictation of the Post. Graduate Course
+Catholic University, Master degree in agribusiness, Córdoba, Argentine.2010
+Course on Econometry for Managers. Regression Models. Concepts and Practice.
+Teacher’s Assistance
+Members of Departament of Economics and Finance, School Economics, National University of Córdoba, Argentine. 2002-2005
+Teacher’s Assistant in Economics II, Agriculture Economy, Microeconomics II, Macroeconomics, Econometrics Models. Under the advice of Dr. Colome, Rinaldo.
+Conducted course at SAS (statistical applied software). INTA.2018-2021
+Conducted course about SAS university for National Institute of Agricultural technology research. Courses applied a Statistical for experimental data, experimental design. Innovate models in plants and animals with SAS programs.
+CERTIFICATE, COURSES, SEMINARS AND CONGRESS (last years)
+Open English – Candidate (Online Course). 2025-Present.
+AWS Academy Cloud Architecting – Candidate, WIC (Women in Cloud) Training Program.
+2024-Present.
+AWS Academy Graduate - Cloud Foundations Issued by AWS Training &Certification.2024.
+AWS Academy Graduate - Machine Learning Issued by AWS Training & Certification.2020.
+Generative AI Large Language Models. Andrew Ng. Deep Learning AI. 11/06/2023 ChatGPT Prompt Engineering for Developers. Andrew Ng. Deep Learning AI. 05/03/2023
+Certificate in MLOps Fundamentals CI/CD/CT pipelines from ML with Azure Demo. Udemy. October 2022. Certificate in Databricks and Apache Spark for Big Data, from zero to expert. Udemy. August 2022.
+Certificate by Coursera Machine Learning Pipelines with Azure ML Studio. August 2021. Certificate by Coursera. Azure Synapse SQL Pool - Implement Polybase. September 2021.
+Specialization program: Bayesian Statistics. Bayesian Statistics: Techniques and Models. University of California. 2021.
+11th Ibero-American Meeting of Biometry and the 25th Annual Meeting of the Argentinian Group ofBiometry, Tandil, Argentine on September 25th, 26th, 27th. 2020 (Virtual). Oral delivery.
+10th Ibero-American Meeting of Biometry and the 24TH Annual Meeting of the Argentinian Group of Biometry, Mendoza, Argentine on October 26th, 27th, 28th.2019. Poster and Oral delivery.
+Big Data workshop on Economy and Public Policies. Applications, Tools and Machine Learning. October 17th , conducted by Dr. Sosa, Walter Escudero. National, University of Salta, Comisión Nacional de Ciencias y Tecnologías. Dr.Galvez, Ramiro, National University of Córdoba, Argentine.2018.
+Post-graduate course on Bayessian Spacial Models in R-INLA, master’s in applied Statistics, National University. Dr. Raúl Maquiavelli, Córdoba, Argentine.2018.
+Post-graduate course on Alternatives to Analysis of Main Components applied to Analysis of Big Data. Dr Galindo Villardón, María, Salamanca University. Neuquén, Argentine. 2018.
+Post-Graduate Course on Causality networks of experimental data applied to swinw production. Ph. Bello, Nora, Kansas State University. Neuquén, Argentine. 2018.
+Post-Graduate Course on Generalized Linear Mixed Models: Concept and Applications. Ph. Bello, Nora, Kansas State University. Neuquén, Argentine. 2018.
+Online Course. Machine Learning. Professor at Stanford University Andrew Ng, Cofounder Coursera, Assistant Teacher at Stanford University.2018.
+Academic exchange WorkDay on Plant Phisiology of corn. Experimental Station of the National Institute of Agricultural Technology Manfredi, Córdoba, Argentine. March 8th, 9th.2018.
+26th, Argentine Association of Direct Sowing Producers (Aapresid) Congress. Sustainability. Córdoba, Argentine.2018.
+Post-Graduate Course on Definite Screening as a system for Experimental Design and Optimization. Dr. Cristopher Nachtsheim. Argentinian Society of Statistics, Argentinian Group of Biometry. Latin American Institute of Statistics, Rosario, Argentine. 2017.
+Brief Course on Machine Learning. 21st, Meeting of Argentinian Group of Biometry. Dr. Díaz Rodriguez Irene, Oviedo University, Spain. Corrientes, Argentine.2016.
+Brief Course on Mixed Models for Analysis of Repeated Measures Data. 21st, Meeting of Argentinian Group of Biometry.Dr. Díaz Rodriguez Irene, Oviedo University, Spain. Corrientes, Argentine.2016.
+Post-Graduate Course of Bayessian Statistics. Interuniversity networks, National University of Córdoba,
+Argentine on October 24th, 25th, 26th. Poster and Oral delivery. 2016.
+Post- Graduate Course on Avanced Mixed Models, School of Economics, School of Mathematics, Astronomy and Physics. Dr Balzarini, Mónica.2015.
+Post-Graduate Course on Applications of Finite Mixture Models, Poisson and Negative Binomial and Modified. Master Applied Statistics, National University of Córdoba. Argentine. Dr. Maquiavelli Raúl.2015.
+Post-Graduate Course on Applications of Bayesian Approach for spacially correlated data. Dr Icaza Gloria. Institute of Mathematics and Physics, TALCA, University of Chilean. 2015.
+English Training Course- Pre-intermediate. Prof. Wise Patricia, Scholl of Language. Manfredi, Córdoba, Argentine. 2015.
+Course of DB Germo WEB and other informatics tools. Trainner Julio Tillería, INTA CASTELLAR, INTA CORRIENTES, 12th, 13th.2015.
+4th Iberoamerican Meeting of Biometry and 20th Argentinian Meeting Group of Biometrics. Mar del Plata, Buenos Aires, Argentine.2015.
+PARTICIPATION IN PROJECT (LATEST YEARS)
+Country Expansion Program. Demographic segmentation. Deep Segmentation. Forecast the Future Demand for actual cities. Forecast the Future Demand for new cities, Extrapolate al country. Data driven, Data Science. Anheuser-Busch InBev. Pi consulting & Strategies. 2022.
+Logistics prediction of the level of customer satisfaction. Health Score for NPS. Anheuser-Busch InBev. Pi consulting & Strategies. 2022.
+Genotype by Environmental Predictions. GDM. Don Mario. Data Science. Pi consulting & Strategies.
+.2021.
+Digital Government Project of the Ministry of Economy and Energy. Data Science, Natural Lenguage Process. 2021. Pi consulting & Strategies.2021.
+Text Classifications to improve the management system. Pernod Ricard. Data Science. Pi consulting & Strategies. 2021.
+PNCYO 1127046. Evaluations networks unpublished of germplasm INTA. Statistical Analysis of Genotypes regarding environments. Application the new mathematics models. Publications of the results. Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine.2013-2019
+PNBIO 1131042. Applied Genomics to molecular optimization parametrical and non-parametrical statistical models. Experiments assessment Publication. Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine.2013-2019.
+PNBIO 1131043. Bioinformatics and genomics. Assistance and new models in the evaluation of big base data. Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine. 2013-2019.
+CORDO 1262206. Transfer and training in the application in new experimental designs, specific adaptations for the zone, Handling of data, Innovations procedures. Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine.2013-2019.
+CORDO 1262205. Technology in both extensive and intensive crops under irrigation and rainfed. Experimental Station Manfredi of the National Institute of Agriculture Technology, INTA. Manfredi, Córdoba, Argentine.2013-2019.
+PUBLICATION AND DISSEMINATION MODELS (LATEST YEARS)
+“The bright side of alfalfa viral diseases: The response of coumestrol phytoestrogen content in alfalfa genotypes”. Plant Pathology Manuscript ID PP-21-426 Manuscript Type: Original Article Date Submitted by the Author: 30-Sep-2021 Complete List of Authors: Silva, Mercedes Pilar; INTA, Basigalup Agricultural Experiment Station, Daniel H.; INTA, Chiacchiera Agricultural Experimental Station, Stella Maris; National University of Rio Cuarto Faculty of Exact Physical, Chemical and Natural Sciences, Institute of Mycology and Mycotoxicology (IMICO) Trucco, Veronica; INTA, Institute of Plant Pathology (INTA- CIAPIPAVE); CONICET Cordoba, Plant Pathology and Agricultural Modeling Unit (CONICET-UFyMA) Giolitti, Fabián Mamani, Eva; INTA, Díaz Agricultural Experimental Station, Carolina Del Pilar; INTA, Manzur Agricultural Experimental Station, Milena. An International Journal edited by British Society for Plant Patology. 2020.
+Segregations Analysis of Polymorphic SSR in three populations of F2 of peanut for charcoal tolerance. Peanut Workday. Ritta L., Moreno M.V., Mamaní E., Díaz C., Etchart V., Minudri F., Peiretti G., Ibáñez M., Paredes J., Rago A., INTA-EEA Manfredi. Genetic institute, CNIA-INTA. FAV, UNRC. 4IPAVE, CIAP-INTA. Argentine, 2020.
+“Advanced Mixed Generalized linear models, for effects of two levels of residues of Suico (Tagetes Minuta L.) extracts on ruminal fermentation in vitro”. Diaz, C. INTA-EEA Manfredi. XXIII Reunión Científica del GAB, II Encuentro Argentino - Chileno de Biometría. Neuquén. Díaz, CDP. *, Scorcione Turcato, M.C, Ortiz Chura A., Ochoa, A., Cerón Cucchi M.E., Frossasco G., Brunetti M.A., García F., Moreno
+M. V., Zygadlo J., Colombatto, D. y Martínez Ferrer, J. CONICET. INTA – EEA Manfredi. CICVyA INTA Castelar. FCA – UNC. IMBIV.FAUBA. NEUQUÉN. Argentine 2019.
+“The influence of insecticide applications on stored soybeans on the level of residues in the crude oil”. CICYTAC. 7th Congress International Food Science and Technology. Aguilar Roxana, Nassetta Mirtha, Diaz Carolina, Rojas Dante, Cristos Diego, Strada Julieta and Martinez María J. INTA EEA Manfredi. Route 9 km 636. Manfredi, Córdoba (5899). MINCYT. FCEF, UNC. INTA Castelar. ITA CONICET. National Council for Scientific Research and Techniques.2019.
+“Nutritional chemical composition of fruits of different carob species (Prosopis sp.) from northwestern Córdoba”. CICYTAC. VII International Congress of Food Sciences and Technology. Martinez MJ, Ledesma, M, Aguilar R, Silva M, Carranza, C; Pazos A, Díaz C, Nassetta M, Arzac, M, and Labuckas D. INTA, EEA Manfredi, Cba. INTA, Villa Dolores Forest Station, INTA, ITA Castelar- MINCyT- CBA. Argentine 2019.
+“Assessing INTA’s Arachis hypogaea Core Collection for reaction to peanut smut”. ABSTRACT MUST BE RECEIVED BY August 15, 2018”. Email Abstract to: Dr. H. Thomas Stalker, Crop Science Dept., Campus Box 7629, North Carolina State University, Raleigh, NC 27695-7629 USA. Presentación del Resumen para la Conferencia del Genoma del maní EMC Mamaní, AV Rodríguez, G Cordes, CDP Díaz, MV Moreno, VJ Etchart, G. de la Barrera & J Baldessari. National Institute for Agricultural Technology (INTA), Manfredi Exp. Stn., Manfredi(5988), Argentina.- INTA, IGEAF, CICVyA, Hurlingham(1686), Argentine.2018
+Publication of the evaluation of corn Technologies published in Horizonte magazine during seeding seasons 2017-2018. Corn Networks: Analysis of genotype-environment. Application of GGE ShuklaModels. Díaz Carolina Del Pilar, Ferreyra M.Laura. INTA EEA, Manfredi 2017-2018. Argentine 2018.
+Second World Alfalfa Congress “Alfalfa (Medicago sativa L.) coumestrol phytoestrogen content in response to genotypes, cultivar and viral disease”. Silva, M.1(*), Chiacchiera, S. 2, Mamaní, E. 1, Giolitti, F. 3, Trucco, V. 3, Díaz, C.1, Arolfo, V.1, Basigalup, D.1 1 EEA-Manfredi - INTA. Ruta Nacional N°
+9. km 636. CP 5988. Cba, Argentina, 2 Departamento de Química. FCFQyN. UNRC. Rio Cuarto, Cba, Argentina. 3 CIAP – INTA Camino 60 cuadras km 5.5 CP5119 Cba. Argentine2018.
+Regional Evaluation of INTA Wheat Varieties. INTA Jesús María 2018. Presentation at the rural exhibition of Jesús María. Ing. Diego Cordes, Ing. Raúl Candela, Lic. Carolina Díaz, Ing. Omar Candela
+. INTA-MANFREDI. Córdoba. 2018.
+Experimental Essay of Corn, Cluster and Yield Evaluation for Corn Varieties. Ing. Agr. Daniel Chincuini,Ing. Agr. Alejandro Druetta, CooPaz Cañada de Luque; Lic. Carolina Díaz, Ing. Agr. Claudia Vega.INTA Jesús María Cañada de Luque, seeding seasons 2017-2018. INTA-MANFREDI. Córdoba. AER Jesús María. Córdoba, Presentation at the rural exhibition of Jesús María. 2018.
+Phenotyping for Drought Tolerance in Sunflower inbreed lines (Helianthus annus var. macrocarpus (DC) Cockerell). GRANDON Nancy, MARTIN Eugenia, CICCONI Emanuel, DIAZ Carolina Del Pilar,MAMANÍ Eva, YACHETTA Gaspar, CASALANGUIDA Maximiliano, MECCHIA Luis, MORENO Ma. Valeria.INTA- EEA Manfredi. 2IICAR-CONICET. Campo Experimental Villarino. Basic and Applied Sciences. National University of Villa Maria. Argentine 2018. 32nd Meeting of Plant Physiology Congress. Argentine 2018.
+Effect of Chemical and Biological control of acid vine rot. 40 th Argentine Congress of Horticulture October 2 to 5, 2018. Horticulture Congress 2018. (ASAHO) member of the "International Society for Horticultural Science". Cordes, D.D.; Grion, A.; Cordes, G.G.; Pérez, A.;Díaz C. y Marraro F. INTA MANFREDI.Jesús María Agency. Argentine 2018.
+“Effect of Lippia turbinata G extracts, at two levels of inclusion, on in vitro ruminal fermentation”. 41° Congreso de la Asoc. Argentina de Producción Animal – RAPA Vol. xy, Supl. 1. in the Animal Nutrition and Feeding Section (NA). Scorcione Turcato, M.C.1, Ortiz Chura A., Diaz, C. D. P2., Cerón Cucchi M.E., Frossasco G., Brunetti M.A., García F., Moreno M. V., Ungerfeld, E.7, Zygadlo J, Colombatto, D. y Martínez Ferrer, J. CONICET. INTA – EEA Manfredi. CICVyA INTA Castelar. CONICET. FAUBA. INIA Carillanca, Chile.2018.
+“Effect of two levels of substitution of the substrate with fractions of Tagetes minuta L. (Suico) on rumen fermentation”. Association Congress. Animal Production Argentina – RAPA Vol. xy, Supl. 1. 41° Argentine Congress of Animal Production, in the Animal Nutrition and Feeding Section (NA).Scorcione Turcato, M.C., Ortiz Chura A., Ochoa, A., Del Pilar, C., Cerón Cucchi M.E., Frossasco G., Brunetti M.A., García F., Moreno M. V.., Zygadlo J., Colombatto, D. y Martínez Ferrer, J.CONICET. INTA – EEA Manfredi. CICVyA INTA Castelar. FCA – UNC. IMBIV – CONICET. FAUBA. private activity. Argentine 2018.
+“Deltamethrin residues in crude soybean oil. Periurban Conferences 2017”. Aguilar, R.; Diaz, C.; Strada, J.; Silva, M.; Nassetta M.; Christs, D.; Rojas, D.; Martinez, M. J. INTA, EEA Manfredi. CONICET. MINCyT, FCEF y N-UNC. INTA, Castelar. ITA. Cordoba-Argentina-2017
+“Analysis of Chlorpyrifos methyl residues in crude soybean oil from treated grains in storage”. IV Ibero-American Congress of Environmental Health for development sustainable, XX Argentine Congress of Toxicology, September 20, 21, 22. 2017. Presentation of Poster and oral defense. Aguilar Roxana, Nassetta Mirtha, Díaz Carolina, Rojas Dante, Cristos Diego, Strada Julieta and Martinez María J. INTA EEA. Manfredi. Route 9 km 636. Manfredi, Córdoba (5899). MINCYT. FCEF y N-UNC. INTA Castelar. ITA CONICET. National Council for Scientific and Technical Research. Argentine 2017.
+“Dissipation dynamics of organophosphate insecticides in crude oil of soybean” VI International Congress of Food Science and Technology (CICYTAC 2017)”. IV Ibero-American Congress of Environmental Health for sustainable development, XX Argentine Congress of Toxicology, September 20, 21, 22, 2017. Presentation of Poster and oral defense. Aguilar Roxana, Nassetta Mirtha, Diaz Carolina, Rojas Dante, Cristos Diego, Strada Julieta and Martinez María J. INTA EEA Manfredi. Route 9 km 636.   Manfredi, Cordoba (5899). MINCYT. FCEFyN-UNC. INTA Castelar. ITA CONICET. National Council of Scientific and Technical Research. Argentine 2017.
+“Genotype-environment (GGE) statistical analysis. SHUKLA analysis. Test of AMMI stability”. Oral presentation. DAYS OF CORN 2017.Red Maíz 2017.INTA MANFREDI. Díaz, Carolina Del Pilar. EEA MANFREDI. 2017. Regional evaluation of wheat varieties INTA Jesús María, Córdoba PReT Center – 2017 Campaign. Eng. Diego Cordes, Eng. Raúl Candela, Lic. Carolina Díaz, Eng. Omar Candela. INTA- MANFREDI. Cordoba. AER Jesus Maria. Cordoba. Presentation at the rural exhibition of Jesús María. Argentine 2017. Echeverria ; De Leon, M. ; Queiroz, O. ; Gimenez A. ; Diaz, P.C., National Institute of Technology Agriculture (INTA). Manfredi Agricultural Experimental Station. Cordoba. Argentina. Faculty of Agricultural Sciences. National University of Cordoba. TEKNAL. Animal Nutrition. Argentine 2016.
+“Evaluation of the storage of wet Burlanda mixed with other nutrients”. September 20.” Published in ALPA”. Application of linear models Generalized mixed”. SAS 9.2, SAS EU. Echeverria; De Leon, M. ; Queiroz, O.; Gimenez A.; Díaz, P.C., National Institute of Agricultural Technology (INTA). Station Manfredi Agricultural Experimental. Cordova. Argentina. Faculty of Sciences Agricultural. National University of Cordoba.Teknal. animal nutrition.2016.
+“Dissipation dynamics of organophosphate insecticides in crude oil of soybean". V International Congress of Food Science and Technology (CICYTAC). Aguilar R.; Diaz, C.; Strada, J.; Nassetta, M.; Marioli, J.; Martinez, MJ. INTA- EEA Manfredi, Route 9 Km 636. Manfredi, Córdoba,Argentine. National Council for Scientific and Technical Research (CONICET). FCEFyN-UNC. Department of Industrial and Applied Chemistry. FCEFQyN-UNRC. Chemistry Department. VI International Congress of Science and Technology of Food (CICYTAC 2016).
+“Effects of the alfalfa stunt viral complex on different genotypes estimated with Mixed Linear Models”. XXI GAB Scientific Meeting, II Argentine - Chilean Meeting of Biometrics. DÍAZ, C., SILVA, M., MAMANÍ, E., TRUCCO, V., GIOLITTI, F. and D. BASIGALUP. INTA, Plant Genetic Improvement, EEA -
+Manfredi. INTA, Department of Economy, EEA - Manfredi. 3 INTA, Institute of Plant Pathology – IPAVE- CIAP.Corrientes-Argentine. 2016.
+“Genetic characterization of cultivated peanut genetic resources (Arachis hypogaea L.) using microsatellite markers”. Rev. FCA UNCUYO. 2014. 46(2): Printed ISSN 0370-4661. ISSN (online) 1853- 8665. Pozzi, F; Etchart V; Diaz C; Royo, O; Moreno, M. V; Gieco, J.O. Manfredi, Cordoba, Argentina.Biology Laboratory Molecular, "Ewald A. Favret" Institute of Genetics, Science Research Center Veterinary and Agronomic (CICVyA), INTA, Los Reseros and Las Cabañas s/n (1686), Hurlingham, Buenos Aires, Argentina. Area of Extensive Crops, Station Experimental Corrientes, INTA, Route 12 Km. 1008 (3400) Corrientes, Argentina. Area of Statistics, Manfredi Agricultural Experimental Station, INTA, National Route 9 Km. 636 (5988) Manfredi, Cordoba, Argentina. March 2013.
+OTHER BACKGROUND (LATEST YEARS)
+Member of Gen AI Community – Taking courses, 2025-present
+Member of AWS Girls Argentina – Taking courses, 2025-present
+Member of Mujeres en Tecnología (MET). Argentina, Córdoba | Year of membership, 2019.present
+Member of The International Biometric Society (IBS) and the Argentine Biometric Group (GAB) 2006-present. Engaged in research, presentations, dissemination, and teaching of the latest topics in applied statistical research, particularly in generalized linear mixed models. Actively involved in inter-consultations and scientific contributions since 2006. Participation as an exhibitor. Poster and Oral. Held in the city of Neuquén, October 24, 25, 26, 2018.
+External Consultant. INTA Manfredi, Argentina 2021-present. Consultant for ecophysiology research projects, providing statistical guidance and expertise in experimental design and data analysis. Advise on machine learning applications, focusing on crop monitoring and environmental sustainability. Collaborate with multidisciplinary teams to enhance project outcomes and ensure effective quantitative analysis.
+First Meeting of Periurbanos towards consensus. City Environment and Production of food:
+proposals to reorganize the territory. Participation as an exhibitor Posters.2018.
+Dictation of Introductory Course at SAS university, UE. Responsible Adriana Cano, Beatriz Masiero, Diaz, Carolina Del Pilar. (Statistics by the experimental MJ and BALCARCE). INTA. As an exhibitor of No linear models generalized mixed Marcos Juárez, Córdoba, June 10, 11, 12, 2018.
+Annual and IBS Meetings of the Argentine Biometrics Group:
+VII IBS Meeting & XXI Annual Meeting - Corrientes, 2016 | Poster and Oral Speaker.
+XXII Annual Meeting - Rosario, 2017 | Poster and Oral Exhibitor
+XXIV Annual Meeting - Mendoza, 2019 | Poster and Oral Exhibitor
+XXV Annual Meeting - Tandil, B.A., 2020 | Poster and Oral Exhibitor
+IBS Meeting & Annual Meeting - Salta, 2023 | Oral Presentation
+IBS Meeting & Annual Meeting - Buenos Aires, 2024 | Oral Presentation
+LANGUAGE
+Spanish Native
+English Intermediate User
+Portuguese Basic User
